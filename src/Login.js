@@ -21,7 +21,7 @@ export default class Login extends Component {
                         <input type="checkbox" className="form-check-input" id="exampleCheck1"/>
                         <label className="form-check-label" for="exampleCheck1">Remember Me</label>
                     </div>
-                    <button type="submit" className="btn btn-primary ms-2">Submit</button>
+                    <button type="submit" className="btn btn-primary ms-2">Log in</button>
                 </form>
             </div>
         )
